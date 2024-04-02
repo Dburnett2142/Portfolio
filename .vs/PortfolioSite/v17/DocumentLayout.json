@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tsardean\\Documents\\Hoemwerk\\Portfolio\\PortfolioSite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5A1332-1B56-4743-AAC6-D85957418E5A}|WebApplication1\\WebApplication1.csproj|c:\\users\\tsardean\\documents\\hoemwerk\\portfolio\\portfoliosite\\webapplication1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB5A1332-1B56-4743-AAC6-D85957418E5A}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5A1332-1B56-4743-AAC6-D85957418E5A}|WebApplication1\\WebApplication1.csproj|c:\\users\\tsardean\\documents\\hoemwerk\\portfolio\\portfoliosite\\webapplication1\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB5A1332-1B56-4743-AAC6-D85957418E5A}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5A1332-1B56-4743-AAC6-D85957418E5A}|WebApplication1\\WebApplication1.csproj|c:\\users\\tsardean\\documents\\hoemwerk\\portfolio\\portfoliosite\\webapplication1\\pages\\projects\\crecendo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB5A1332-1B56-4743-AAC6-D85957418E5A}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\projects\\crecendo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5A1332-1B56-4743-AAC6-D85957418E5A}|WebApplication1\\WebApplication1.csproj|c:\\users\\tsardean\\documents\\hoemwerk\\portfolio\\portfoliosite\\webapplication1\\pages\\projects\\wildcatmicrofund.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB5A1332-1B56-4743-AAC6-D85957418E5A}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\projects\\wildcatmicrofund.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5A1332-1B56-4743-AAC6-D85957418E5A}|WebApplication1\\WebApplication1.csproj|c:\\users\\tsardean\\documents\\hoemwerk\\portfolio\\portfoliosite\\webapplication1\\pages\\bio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB5A1332-1B56-4743-AAC6-D85957418E5A}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\bio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5A1332-1B56-4743-AAC6-D85957418E5A}|WebApplication1\\WebApplication1.csproj|c:\\users\\tsardean\\documents\\hoemwerk\\portfolio\\portfoliosite\\webapplication1\\pages\\education.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB5A1332-1B56-4743-AAC6-D85957418E5A}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\education.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5A1332-1B56-4743-AAC6-D85957418E5A}|WebApplication1\\WebApplication1.csproj|c:\\users\\tsardean\\documents\\hoemwerk\\portfolio\\portfoliosite\\webapplication1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EB5A1332-1B56-4743-AAC6-D85957418E5A}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Crecendo.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tsardean\\Documents\\Hoemwerk\\Portfolio\\PortfolioSite\\WebApplication1\\Pages\\Projects\\Crecendo.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Pages\\Projects\\Crecendo.cshtml",
+              "ToolTip": "C:\\Users\\Tsardean\\Documents\\Hoemwerk\\Portfolio\\PortfolioSite\\WebApplication1\\Pages\\Projects\\Crecendo.cshtml",
+              "RelativeToolTip": "WebApplication1\\Pages\\Projects\\Crecendo.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T22:02:04.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WildcatMicrofund.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tsardean\\Documents\\Hoemwerk\\Portfolio\\PortfolioSite\\WebApplication1\\Pages\\Projects\\WildcatMicrofund.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Pages\\Projects\\WildcatMicrofund.cshtml",
+              "ToolTip": "C:\\Users\\Tsardean\\Documents\\Hoemwerk\\Portfolio\\PortfolioSite\\WebApplication1\\Pages\\Projects\\WildcatMicrofund.cshtml",
+              "RelativeToolTip": "WebApplication1\\Pages\\Projects\\WildcatMicrofund.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T22:00:58.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Education.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tsardean\\Documents\\Hoemwerk\\Portfolio\\PortfolioSite\\WebApplication1\\Pages\\Education.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Pages\\Education.cshtml",
+              "ToolTip": "C:\\Users\\Tsardean\\Documents\\Hoemwerk\\Portfolio\\PortfolioSite\\WebApplication1\\Pages\\Education.cshtml",
+              "RelativeToolTip": "WebApplication1\\Pages\\Education.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T21:59:59.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bio.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tsardean\\Documents\\Hoemwerk\\Portfolio\\PortfolioSite\\WebApplication1\\Pages\\Bio.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Pages\\Bio.cshtml",
+              "ToolTip": "C:\\Users\\Tsardean\\Documents\\Hoemwerk\\Portfolio\\PortfolioSite\\WebApplication1\\Pages\\Bio.cshtml",
+              "RelativeToolTip": "WebApplication1\\Pages\\Bio.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T21:59:31.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tsardean\\Documents\\Hoemwerk\\Portfolio\\PortfolioSite\\WebApplication1\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Tsardean\\Documents\\Hoemwerk\\Portfolio\\PortfolioSite\\WebApplication1\\Pages\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T21:56:53.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Tsardean\\Documents\\Hoemwerk\\Portfolio\\PortfolioSite\\WebApplication1\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Tsardean\\Documents\\Hoemwerk\\Portfolio\\PortfolioSite\\WebApplication1\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-01T21:56:04.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tsardean\\Documents\\Hoemwerk\\Portfolio\\PortfolioSite\\WebApplication1\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Tsardean\\Documents\\Hoemwerk\\Portfolio\\PortfolioSite\\WebApplication1\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T21:55:58.47Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
