@@ -9,55 +9,55 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebApplication1
 build_property.RootNamespace = WebApplication1
-build_property.ProjectDir = C:\Users\Tsardean\Documents\Hoemwerk\Portfolio\PortfolioSite\WebApplication1\
+build_property.ProjectDir = C:\Users\Tsardean\Documents\GitHub\Portfolio\WebApplication1\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Tsardean\Documents\Hoemwerk\Portfolio\PortfolioSite\WebApplication1
+build_property.MSBuildProjectDirectory = C:\Users\Tsardean\Documents\GitHub\Portfolio\WebApplication1
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Tsardean/Documents/Hoemwerk/Portfolio/PortfolioSite/WebApplication1/Pages/Bio.cshtml]
+[C:/Users/Tsardean/Documents/GitHub/Portfolio/WebApplication1/Pages/Bio.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmlvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Tsardean/Documents/Hoemwerk/Portfolio/PortfolioSite/WebApplication1/Pages/Education.cshtml]
+[C:/Users/Tsardean/Documents/GitHub/Portfolio/WebApplication1/Pages/Education.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWR1Y2F0aW9uLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Tsardean/Documents/Hoemwerk/Portfolio/PortfolioSite/WebApplication1/Pages/Error.cshtml]
+[C:/Users/Tsardean/Documents/GitHub/Portfolio/WebApplication1/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Tsardean/Documents/Hoemwerk/Portfolio/PortfolioSite/WebApplication1/Pages/Index.cshtml]
+[C:/Users/Tsardean/Documents/GitHub/Portfolio/WebApplication1/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Tsardean/Documents/Hoemwerk/Portfolio/PortfolioSite/WebApplication1/Pages/Privacy.cshtml]
+[C:/Users/Tsardean/Documents/GitHub/Portfolio/WebApplication1/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Tsardean/Documents/Hoemwerk/Portfolio/PortfolioSite/WebApplication1/Pages/Projects/Crecendo.cshtml]
+[C:/Users/Tsardean/Documents/GitHub/Portfolio/WebApplication1/Pages/Projects/Crecendo.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvamVjdHNcQ3JlY2VuZG8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Tsardean/Documents/Hoemwerk/Portfolio/PortfolioSite/WebApplication1/Pages/Projects/WildcatMicrofund.cshtml]
+[C:/Users/Tsardean/Documents/GitHub/Portfolio/WebApplication1/Pages/Projects/WildcatMicrofund.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvamVjdHNcV2lsZGNhdE1pY3JvZnVuZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Tsardean/Documents/Hoemwerk/Portfolio/PortfolioSite/WebApplication1/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Tsardean/Documents/GitHub/Portfolio/WebApplication1/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Tsardean/Documents/Hoemwerk/Portfolio/PortfolioSite/WebApplication1/Pages/_ViewImports.cshtml]
+[C:/Users/Tsardean/Documents/GitHub/Portfolio/WebApplication1/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Tsardean/Documents/Hoemwerk/Portfolio/PortfolioSite/WebApplication1/Pages/_ViewStart.cshtml]
+[C:/Users/Tsardean/Documents/GitHub/Portfolio/WebApplication1/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Tsardean/Documents/Hoemwerk/Portfolio/PortfolioSite/WebApplication1/Pages/Shared/_Layout.cshtml]
+[C:/Users/Tsardean/Documents/GitHub/Portfolio/WebApplication1/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-g6ltozs93r

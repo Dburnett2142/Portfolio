@@ -1,4 +1,49 @@
 ﻿@page
-@model WebApplication1.Pages.EducationModel
+@model EducationModel
 @{
+    ViewData["Title"] = "Education";
 }
+
+<div class="container">
+    <div class="education-section">
+        <h1 class="text-center">My Educational Journey</h1>
+
+        <!-- University Education -->
+        <div class="mt-5">
+            <h2>Weber State University, Ogden, Utah</h2>
+            <p><strong>Computer Science Degree</strong> (2020-2024)</p>
+            <p>I completed a full Bachelor's of Science Degree at Weber State. This journey has not only been about acquiring theoretical knowledge but also about practical application through various projects and collaborations. The curriculum has equipped me with a solid foundation in programming, software development, and problem-solving skills critical in the tech industry.</p>
+        </div>
+
+        <!-- High School Education -->
+        <div class="mt-4">
+            <h2>Farmington High School, Farmington, Utah</h2>
+            <p><strong>High School Diploma</strong> (2018-2020)</p>
+            <p>Graduated with a Diploma, my time at Farmington High was pivotal in shaping my initial interest in computer science. It was here that I began to explore the vast possibilities within the tech field, which ultimately guided me towards pursuing a degree in Computer Science.</p>
+        </div>
+    </div>
+</div>
+
+<style>
+    .container {
+        max-width: 800px;
+        margin: auto;
+        padding: 20px;
+    }
+
+    .education-section h1 {
+        margin-bottom: 40px;
+    }
+
+    .education-section h2 {
+        color: #0056b3; /* Matching the theme of the rest of the site */
+        margin-bottom: 10px;
+    }
+
+    p {
+        text-align: justify;
+        margin-bottom: 20px;
+        font-size: 1.1em;
+        line-height: 1.6;
+    }
+</style>
